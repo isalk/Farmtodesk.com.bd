@@ -1,0 +1,16 @@
+Requirements: 
+1: A person Can Add as many medicine as he wants
+2: Each medicine has its name, doses and duration of course
+3: alarm can be set for each medicine
+4: On time, the person will be alarmed 
+5: All the alarms can be seen 
+6: Alarms can be turned off
+7: Some sort of database to keep all the data
+8: On startup get all the data from file ( if any)
+9: the program needs to run on the background all the time in order to give alarm
+
+
+Extra(optional)
+
+10: login page, if want to change details of the medicine doses, need password (may b database/file) 
+11: On time, an email will be sent as well (if computer is not turned on)
